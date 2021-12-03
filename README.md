@@ -19,6 +19,14 @@
 +   [C++ 游戏开发的程序化内容生成](docs/proc-con-gen-cpp-game-dev/SUMMARY.md)
 +   [C++ 软件架构](docs/soft-arch-cpp/SUMMARY.md)
 +   [C++ UE4 脚本编程秘籍](docs/ue4-script-cpp-cb/SUMMARY.md)
++   [C++ 高级量化金融](docs/adv-quant-fin-cpp/SUMMARY.md)
++   [C++ 游戏开发秘籍](docs/cpp-game-dev-cb/SUMMARY.md)
++   [C++ Qt6 跨平台开发](docs/cross-plat-dev-qt6-mod-cpp/SUMMARY.md)
++   [C++ 游戏开发的音频编程入门指南](docs/get-start-cpp-audio-prog-game-dev/SUMMARY.md)
++   [Boost C++ 库学习手册](docs/learn-boost-cpp-lib/SUMMARY.md)
++   [LLVM12 学习手册](docs/learn-llvm12/SUMMARY.md)
++   [精通 Windows8 C++ 应用开发](docs/master-win8-cpp-app-dev/SUMMARY.md)
++   [UE4 VR 项目](docs/ue4-vr-proj/SUMMARY.md)
 
 ## 贡献指南
 
