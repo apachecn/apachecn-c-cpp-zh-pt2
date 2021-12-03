@@ -1,4 +1,4 @@
-Section 1: Concepts and Components of Software Architecture
+# 第一部分：软件架构的概念和组件
 
 本节向您介绍软件体系结构的基础知识，演示其设计和文档的有效方法。
 

@@ -1,4 +1,4 @@
-Section 3: Architectural Quality Attributes
+# 第三部分：架构质量属性
 
 本节更多地关注使软件项目成功的高级概念。在可能的情况下，我们还将展示有助于保持我们想要实现的高质量的工具。
 
